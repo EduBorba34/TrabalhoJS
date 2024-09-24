@@ -1,5 +1,5 @@
 Integrantes do grupo:
-Eduardo Borba Silva
-Davi Castro 
-Vitoria Roberta
-Wallace Sena
+Eduardo Borba Silva,
+Davi Castro, 
+Vitoria Roberta,
+Wallace Sena,
